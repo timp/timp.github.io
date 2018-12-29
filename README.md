@@ -1,2 +1,2 @@
 # timp.github.io
-A personal website
+A personal website at http://timp.github.io/
