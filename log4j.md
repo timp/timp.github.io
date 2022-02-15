@@ -1,4 +1,4 @@
-``` Mermaid
+```mermaid
 flowchart TD
     A[Log4jRemediation] -->   B{Do you still use Log4J?}
     B --> |No| C(You Win!)
